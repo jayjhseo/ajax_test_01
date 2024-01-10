@@ -1,3 +1,7 @@
+sql mariadb
+CREATE DATABASE vote_dev;
+USE vote_dev;
+
 jhseo
 
 1번 문제
